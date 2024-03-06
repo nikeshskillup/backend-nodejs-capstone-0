@@ -1,0 +1,11 @@
+.action-icon {
+    cursor: pointer;
+    margin-right: 10px;
+    color: #007bff;
+}
+
+.action-icon:hover {
+    color: #0056b3;
+}
+
+
